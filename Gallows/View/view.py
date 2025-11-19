@@ -58,7 +58,7 @@ class HangmanView:
         self.status_label.pack(pady=10)
         self.message_label = tk.Label(
             root,
-            text="The fog is watching...",
+            text="Good luck in GULAG...",
             font=("Consolas", 13, "italic"),
             bg=self.bg,
             fg=self.dim
